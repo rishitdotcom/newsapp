@@ -1,0 +1,12 @@
+a:active {
+    color: blue;
+    
+  }
+
+  a:hover {
+    color: hotpink;
+  }
+  a:link {
+    color: red;
+    text-decoration: none;
+  }
