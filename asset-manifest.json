@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rishitdotcom/newsapp/static/css/main.3ed5f86f.css",
+    "main.js": "/rishitdotcom/newsapp/static/js/main.5904400a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/rishitdotcom/newsapp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/rishitdotcom/newsapp/index.html",
+    "main.3ed5f86f.css.map": "/rishitdotcom/newsapp/static/css/main.3ed5f86f.css.map",
+    "main.5904400a.js.map": "/rishitdotcom/newsapp/static/js/main.5904400a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/rishitdotcom/newsapp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ed5f86f.css",
+    "static/js/main.5904400a.js"
+  ]
+}
